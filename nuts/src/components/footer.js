@@ -34,7 +34,7 @@ const Footer = () => {
                             <li>MySchoolRepo</li>
                             <li>Get Bime</li>
                             <li>HRMS</li>
-                            <li>Tracker</li>
+                            <li>Trackers</li>
                         </div>
                     </div>
                 </div>
